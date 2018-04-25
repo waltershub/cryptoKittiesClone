@@ -1,0 +1,8 @@
+{
+  "name": "kitties",
+  "version": "1.0.0",
+  "description": "cryto kitties non fungable token tutorial",
+  "main": "index.js",
+  "author": "walter shub",
+  "license": "MIT"
+}
